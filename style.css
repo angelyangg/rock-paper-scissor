@@ -6,7 +6,7 @@
 
 section {
   height: 100vh;
-  background-color: rgb(39, 41, 68);
+  background-color: rgb(76, 146, 177);
   font-family: sans-serif;
 }
 
@@ -47,7 +47,7 @@ section {
   border: none;
   color: white;
   font-size: 2rem;
-  background: rgb(51, 112, 94);
+  background: rgb(228, 142, 88);
   border-radius: 3px;
   cursor: pointer;
 }
@@ -62,7 +62,7 @@ section {
 .winner {
   color: white;
   text-align: center;
-  font-size: 5rem;
+  font-size: 4rem;
 }
 
 .hands,
